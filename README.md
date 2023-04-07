@@ -12,3 +12,17 @@ Ensure that the image files are organized correctly in the images/train and imag
 Import the necessary libraries at the beginning of the script and use the code given in notebook on this link - https://github.com/Abhismoothie/Data-Mining-Asgnmnt-1/blob/main/nsjbc%20%20(2).ipynb
 
 
+References- 
+
+1. Facial Emotion Expressions by Samaneh Eslamifar https://www.kaggle.com/datasets/samaneheslamifar/facial-emotion-expressions
+2. OpenCV Library (2021). OpenCV-Python Tutorials. Available at: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html [Accessed 26   March 2023].
+3. TensorFlow (2021). TensorFlow API Documentation. Available at: https://www.tensorflow.org/api_docs [Accessed 26 March 2023].
+4.Keras (2021). Keras API Documentation. Available at: https://keras.io/api/ [Accessed 26 March 2023].
+ Brownlee, J. (2019). How to Develop a Convolutional Neural Network to Classify Photos of Dogs and Cats. Machine Learning Mastery. Available at: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/ [Accessed 26 March 2023].
+5.Chollet, F. (2018). Deep Learning with Python. Manning Publications.
+6.TensorFlow: Martín Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mané, Mike Schuster, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Viégas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. TensorFlow: Large-scale machine learning on heterogeneous systems, 2015. Software available from tensorflow.org.
+7.Keras API: Chollet, F. (2015). Keras. https://keras.io.
+8.NumPy: Oliphant TE. A guide to NumPy, USA: Trelgol Publishing; 2006. ISBN 978-0-9768009-7-3.
+9.SciPy: Jones E, Oliphant T, Peterson P, et al. SciPy: Open source scientific tools for Python, 2001-. http://www.scipy.org/
+10.PIL: Clark, J., Warmerdam, G. (1999). The Python Imaging Library (PIL). Pythonware. Available at https://github.com/python-pillow/Pillow.
+
