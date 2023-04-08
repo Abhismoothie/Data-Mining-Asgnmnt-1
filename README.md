@@ -27,7 +27,9 @@ https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 https://towardsdatascience.com/training-and-visualizing-an-lstm-5c8b903f57d5
 11.TensorFlow 2.0 Tutorial: A Complete Guide to Build a Neural Network" by Nilimesh Halder on Analytics Vidhya:
 https://www.analyticsvidhya.com/blog/2019/09/tensorflow-2-0-guide-build-your-first-neural-network/
-12.
+12.https://github.com/llSourcell/tensorflow_image_classifier/blob/master/src/convolutional.py
+13.https://www.kaggle.com/shruti1610/cnn-for-detection-of-diabetic-retinopathy
+14.https://towardsdatascience.com/cnn-for-image-classification-a-case-study-834d2918c1e1
 
 
 
