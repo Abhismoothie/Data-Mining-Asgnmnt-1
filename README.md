@@ -13,22 +13,35 @@ Import the necessary libraries at the beginning of the script and use the code g
 
 Code References - 
 1. Facial Emotion Expressions by Samaneh Eslamifar https://www.kaggle.com/datasets/samaneheslamifar/facial-emotion-expressions
+
 2. OpenCV Library (2021). OpenCV-Python Tutorials. Available at: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html [Accessed 26   March 2023].
+
 3. TensorFlow (2021). TensorFlow API Documentation. Available at: https://www.tensorflow.org/api_docs [Accessed 26 March 2023].
+
 4.Keras (2021). Keras API Documentation. Available at: https://keras.io/api/ [Accessed 26 March 2023].
  Brownlee, J. (2019). How to Develop a Convolutional Neural Network to Classify Photos of Dogs and Cats. Machine Learning Mastery. Available at: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/ [Accessed 26 March 2023].
+
 5.Chollet, F. (2018). Deep Learning with Python. Manning Publications.
+
 6.TensorFlow documentation on image data preprocessing and augmentation: https://www.tensorflow.org/tutorials/images/data_augmentation
+
 7.A GitHub repository containing code for a convolutional neural network (CNN) image classification model that includes data preparation and augmentation steps: https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/02_Convolutional_Neural_Network.ipynb
+
 8.A Kaggle kernel for an image classification task that includes data preparation and augmentation using Keras: https://www.kaggle.com/cdeotte/25-million-images-0-99757-mnist
+
 9.Building a Simple Neural Network using Keras" by Jason Brownlee on Machine Learning Mastery:
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
 10.Training and Visualizing an LSTM" by Joseph Eddy on Towards Data Science:
 https://towardsdatascience.com/training-and-visualizing-an-lstm-5c8b903f57d5
+
 11.TensorFlow 2.0 Tutorial: A Complete Guide to Build a Neural Network" by Nilimesh Halder on Analytics Vidhya:
 https://www.analyticsvidhya.com/blog/2019/09/tensorflow-2-0-guide-build-your-first-neural-network/
+
 12.https://github.com/llSourcell/tensorflow_image_classifier/blob/master/src/convolutional.py
+
 13.https://www.kaggle.com/shruti1610/cnn-for-detection-of-diabetic-retinopathy
+
 14.https://towardsdatascience.com/cnn-for-image-classification-a-case-study-834d2918c1e1
 
 
